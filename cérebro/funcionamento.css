@@ -1,0 +1,40 @@
+body{
+    background-color: #c7b3c3;
+}
+
+
+
+a{
+    display: inline;
+    margin-inline: 120px;
+    border: 3px solid #fcf2f2;
+    border-radius: 10px;
+    padding: 5px;
+    color: #f4efef;
+
+
+}
+
+h1{
+    font-family: merriweather ;
+    font-size: 45px;
+    margin: 20px;
+    padding-left: 30px;
+    margin-top: 70px;
+
+}
+
+h2{
+    padding-left: 50px;
+    padding-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+}
+
+p{
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 50px;
+
+}
