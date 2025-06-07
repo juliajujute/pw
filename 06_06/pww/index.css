@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header{
+    background-color: aqua;
+    color: aliceblue;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 3px solid #40C6DE;
+}
+
+.container{
+    background-color: #cdeaf0;
+    min-height: 60vh;
+    padding: 50px;
+}
+
+.poduto-container{
+max-width: 1200px;
+margin: auto;
+}
+
+.card{
+    width: 31%;
+    margin: 1%;
+}
